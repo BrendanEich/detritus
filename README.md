@@ -1,0 +1,2 @@
+# detritus
+gh-pages home
